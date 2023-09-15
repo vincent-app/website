@@ -1,0 +1,4 @@
+vincent.localhost {
+  reverse_proxy localhost:3000
+}
+
